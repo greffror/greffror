@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greffror
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Physics, Maths
+- 🌱 I’m currently learning C/C++ 
 - 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me, legendganer98@gmail.com
 
