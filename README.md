@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C/C++ 
 - 💞️ I’m looking to collaborate on nobody
-- 📫 How to reach me, legendganer98@gmail.com
+- 📫 How to reach me, vanshgarg.4387@gmail.com
+- 😉 Writing code for learning purpose
 
 <!---
 greffror/greffror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
